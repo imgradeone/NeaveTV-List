@@ -111,3 +111,17 @@ size: 2.48MB
 **warning: AWFUL FOR PEOPLE TO WATCH**
 
 **末尾精神污染程度极严重，禁忌の蓝蓝路**
+
+## [laptop-drop.mp4](https://neave.tv/assets/videos/laptop-drop.mp4)
+
+![](./screenshots/laptop-drop.png)
+
+lttstore.com（nah
+
+length: 26s
+
+quality: 640x360@30f
+
+size: 619KB (why? only 619KB???)
+
+**warning: perhaps...**
