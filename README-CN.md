@@ -25,6 +25,10 @@ Neave.tv 是由 [Neave Interactive](https://neave.com) 制作的没有上下文�
 
 - [Fortyseven/ChannelSurf](https://github.com/Fortyseven/ChannelSurf) 中的视频列表，以便更快完成列表填充
 
+# 中文 FAQ
+
+见 [FAQ-CN.md](./FAQ-CN.md)
+
 # 免责声明
 
 本 repo 仅仅是 Neave.tv 的视频列表。本 repo 不含，而且以后也不会包含 Neave.tv 的视频内容本身。
