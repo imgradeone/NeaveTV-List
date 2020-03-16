@@ -20,6 +20,7 @@ Just easily fork this repo, and start a Pull Request. Just don't break this repo
 
 - [ ] a simple list of the video list
 - [ ] some details of these videos and their original link
+- [ ] screenshots for these videos (except NSFW)
 
 # Thanks for
 
@@ -27,4 +28,4 @@ Just easily fork this repo, and start a Pull Request. Just don't break this repo
 
 # Disclaimer
 
-This is just a list of Neave.tv videos. This repo doesn't, and will not contain any videos from Neave.tv website.
+This is just a list of Neave.tv videos. This repo doesn't, and will not contain any videos from Neave.tv website. The screenshots for these videos are only for remembering the contents.

@@ -20,6 +20,7 @@ Neave.tv 是由 [Neave Interactive](https://neave.com) 制作的没有上下文�
 
 - [ ] 简单的视频列表
 - [ ] 一些视频详情，和视频源链接
+- [ ] 视频截屏（除了那些充满高能的视频？）
 
 # 特别感谢
 
@@ -31,4 +32,4 @@ Neave.tv 是由 [Neave Interactive](https://neave.com) 制作的没有上下文�
 
 # 免责声明
 
-本 repo 仅仅是 Neave.tv 的视频列表。本 repo 不含，而且以后也不会包含 Neave.tv 的视频内容本身。
+本 repo 仅仅是 Neave.tv 的视频列表。本 repo 不含，而且以后也不会包含 Neave.tv 的视频内容本身。视频截图仅用于让各位回忆视频内容。
