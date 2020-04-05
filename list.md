@@ -42,7 +42,7 @@ quality: 800x450@29.97f
 
 size: 3.51MB
 
-**warning: will be a bit awful for somebody that could be easily disturbed**
+**warning: will be a bit awful for somebody that could be quite easily disturbed**
 
 ## [bim-bam-boom.mp4](https://neave.tv/assets/videos/bim-bam-boom.mp4)
 
@@ -140,16 +140,40 @@ quality: 800x450@25f
 
 size: 1.42MB
 
+## [furby.mp4](https://neave.tv/assets/videos/furby.mp4)
+
+![](./screenshots/furby.png)
+
+length: 29s
+
+quality: 800x450@24f
+
+size: 2.69MB
+
+music: PoPiPo - Hatsune Miku
+
+**warning: unsuitable for children in fact**
+
+by the way,
+
+Furby is actually exists!!! It is an American electronic robotic toy that was originally released in 1998 by Tiger Electronics. Then an updated version was sold by Hasbro.
+
+**but, still, watch this video on your own risk.**
+
+(from [Wikipedia](https://en.wikipedia.org/wiki/Furby), with [CC BY-SA 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/))
+
 ## coming soon...
 
 ```md
+## [xxx.mp4](https://neave.tv/assets/videos/xxx.mp4)
+
 ![](./screenshots/xxx.png)
 
 length: 
 
-quality:
+quality: 
 
-size:
+size: 
 
-warning:
+**warning: some warning content here**
 ```
