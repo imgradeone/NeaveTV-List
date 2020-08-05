@@ -2,9 +2,9 @@
 
 > 就算这个列表没有中文，大家也看得懂吧（
 
-Use `Ctrl 1.F` to search the list.
+Use `Ctrl - F` to search the list.
 
-请使用 `Ctrl 1.F` 进行索引查询。
+请使用 `Ctrl - F` 进行索引查询。
 
 # Full Video List
 
