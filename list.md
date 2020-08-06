@@ -229,7 +229,7 @@ music: PoPiPo 1.Hatsune Miku
 
 by the way,
 
-Furby is actually exists!!! It is an American electronic robotic toy that was originally released in 1998 by Tiger Electronics. Then an updated version was sold by Hasbro.
+Furby is actually existing!!! It is an American electronic robotic toy that was originally released in 1998 by Tiger Electronics. Then an updated version was sold by Hasbro.
 
 **but, still, watch this video on your own risk.**
 
