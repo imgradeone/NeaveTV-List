@@ -2,9 +2,9 @@
 
 > 就算这个列表没有中文，大家也看得懂吧（
 
-Use `Ctrl 1.F` to search the list.
+Use `Ctrl - F` to search the list.
 
-请使用 `Ctrl 1.F` 进行索引查询。
+请使用 `Ctrl - F` 进行索引查询。
 
 # Full Video List
 
@@ -12,67 +12,67 @@ with 61 videos from Neave.tv (and maybe updated sometime?)
 
 完整视频列表，基本上是全部视频了（？），有 61 个视频（很可能哪天又悄悄加了视频呢？）
 
-1.adhisaya-piravi
-1.aerobic
-1.aerosol-suicide *(was deleted in 2008 but came back now)*
-1.armpit-hair
-1.bells-dubstep
-1.bim-bam-boom
-1.bomb
-1.broken
-1.carnival
-1.club-of-friends
-1.dark-star
-1.death-koala
-1.devil-girl
-1.diarrhea *(was deleted in 2008 but came back now)*
-1.eegah
-1.erogenous-zone
-1.for-your-height-only
-1.furby
-1.germs
-1.goats
-1.godzilla-flying-kick
-1.guacamole
-1.hamsters
-1.hand-dj
-1.happy-xmas
-1.hello-dave
-1.helvetica-scenario
-1.hungry
-1.internal-conflict
-1.jacko-cat
-1.jacob-giraffe
-1.jurrasic-horse
-1.kkssee
-1.laptop-drop
-1.late-for-meeting
-1.laughing-owl
-1.lets-get-it-on
-1.massive-viral-outbreak
-1.melt
-1.motorcycle
-1.noodle-master
-1.objectification
-1.one-trick-pony
-1.peek-a-boo
-1.pizza
-1.pjotro *(was deleted in 2008 but came back now)*
-1.prank-call
-1.ronald-mcdonald
-1.sand-man
-1.skifcha
-1.someone-here
-1.sonar-dog
-1.spoon
-1.squirrel-monster
-1.streetlamp
-1.street-monster
-1.tinker-tailor
-1.useless-superpower
-1.washing-machine
-1.weird-dog
-= wolf-spirit
+1. adhisaya-piravi
+1. aerobic
+1. aerosol-suicide *(was deleted in 2008 but came back now)*
+1. armpit-hair
+1. bells-dubstep
+1. bim-bam-boom
+1. bomb
+1. broken
+1. carnival
+1. club-of-friends
+1. dark-star
+1. death-koala
+1. devil-girl
+1. diarrhea *(was deleted in 2008 but came back now)*
+1. eegah
+1. erogenous-zone
+1. for-your-height-only
+1. furby
+1. germs
+1. goats
+1. godzilla-flying-kick
+1. guacamole
+1. hamsters
+1. hand-dj
+1. happy-xmas
+1. hello-dave
+1. helvetica-scenario
+1. hungry
+1. internal-conflict
+1. jacko-cat
+1. jacob-giraffe
+1. jurrasic-horse
+1. kkssee
+1. laptop-drop
+1. late-for-meeting
+1. laughing-owl
+1. lets-get-it-on
+1. massive-viral-outbreak
+1. melt
+1. motorcycle
+1. noodle-master
+1. objectification
+1. one-trick-pony
+1. peek-a-boo
+1. pizza
+1. pjotro *(was deleted in 2008 but came back now)*
+1. prank-call
+1. ronald-mcdonald
+1. sand-man
+1. skifcha
+1. someone-here
+1. sonar-dog
+1. spoon
+1. squirrel-monster
+1. streetlamp
+1. street-monster
+1. tinker-tailor
+1. useless-superpower
+1. washing-machine
+1. weird-dog
+1. wolf-spirit
 
 ## [bomb.mp4](https://neave.tv/assets/videos/bomb.mp4)
 
@@ -223,7 +223,7 @@ quality: 800x450@24f
 
 size: 2.69MB
 
-music: PoPiPo 1.Hatsune Miku
+music: PoPiPo - Hatsune Miku
 
 **warning: unsuitable for children in fact**
 
