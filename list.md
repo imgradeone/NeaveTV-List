@@ -74,6 +74,44 @@ with 61 videos from Neave.tv (and maybe updated sometime?)
 1. weird-dog
 1. wolf-spirit
 
+## [aerobic.mp4](https://neave.tv/assets/videos/aerobic.mp4)
+
+length: 31s
+
+quality: 800x450@29.97f
+
+size: 2.67MB
+
+is actually the opening of 1988 Crystal Light National Aerobic Championship
+
+其实是 1988 全美有氧锦标赛开幕视频的一部分，也被皮卡丘带火了（（（
+
+[original video in YouTube](https://www.youtube.com/watch?v=ozoTzkCeO-A) | [Know Your Meme](https://knowyourmeme.com/memes/1988-crystal-light-national-aerobic-championship)
+
+## [aerosol-suicide.mp4](https://neave.tv/assets/videos/aerosol-suicide.mp4)
+
+![](./screenshots/aerosol-suicide.png)
+
+length: 23s
+
+quality: 640x480@30f
+
+size: 1.36MB
+
+## [armpit-hair.mp4](https://neave.tv/assets/videos/aerobic.mp4)
+
+length: 23s
+
+quality: 800x450@25f
+
+size: 2.35MB
+
+music: Mc Miker G & DJ Sven - Holiday Rap
+
+## [bells-dubstep.mp4](https://neave.tv/assets/videos/bells-dubstep.mp4)
+
+> wait a minute...
+
 ## [bomb.mp4](https://neave.tv/assets/videos/bomb.mp4)
 
 ![](./screenshots/bomb.png)
